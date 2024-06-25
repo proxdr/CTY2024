@@ -1,0 +1,23 @@
+body{
+    background-color:cadetblue;
+    text-align: center;
+}
+.textplaceholder{
+    text-align: left;
+    background-color:aquamarine;
+    color:slategrey;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+.textplaceholder2{
+    text-align: left;
+    padding-left: 2%;
+    padding-right: 40%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    letter-spacing: 5;
+    
+}
