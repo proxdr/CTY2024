@@ -1,18 +1,25 @@
 body{
-    background-color:rgb(237, 225, 200);
+    background-image: linear-gradient(to top, #ede1c8, #ede1c8, #ede1c8, #ede1c8, #ede1c8, #efddc9, #f0dacb, #efd7cd, #e8d3d2, #dcd0d4, #d1cdd1, #cacaca);;
     font-family: Tahoma;
     font-size: 30;
     padding: 10%;
     
 }
 
-#iamge1{
-    border-radius: 20%;
+#image1{
+    border-radius: 30px;
 }
 
-#iamge2{
-    border-radius: 5px;
+#image2{
+    border-radius: 30px;
+}
+#image3{
+    border-radius: 30px;
+}
+
+#image4{
+    border-radius: 30px;
 }
 #title1{
-    text-align:
+    text-align: center;
 }
